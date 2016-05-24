@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: nrjavaserial-3.9.3.jar
+Main-Class: org.jlab.hv.Console
+

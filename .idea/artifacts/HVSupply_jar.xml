@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="HVSupply:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HVSupply_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HVSupply.jar">
+        <element id="module-output" name="RTIHVSupply" />
+      </element>
+      <element id="library" level="project" name="nrjavaserial-3.9.3" />
+    </root>
+  </artifact>
+</component>
